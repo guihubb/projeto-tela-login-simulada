@@ -3,7 +3,7 @@
 🚀 Projeto Tela de Login com Autenticação Simulada
 Este é um projeto de estudo e portfólio que implementa uma interface de login completa, construída inteiramente com tecnologias Front-End. O foco está na criação de uma experiência de usuário agradável e na demonstração de conhecimento em manipulação de eventos e DOM com JavaScript.
 
-➡️ Veja o projeto ao vivo aqui! <- Lembre-se de colocar o link do GitHub Pages
+[➡️ Veja o projeto ao vivo aqui!](https://guihubb.github.io/projeto-tela-login-simulada/)
 
 ✨ Funcionalidades
 Interface Limpa e Moderna: Layout construído com foco na usabilidade e estética, centralizado com Flexbox.
